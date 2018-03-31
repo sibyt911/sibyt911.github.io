@@ -1,0 +1,93 @@
+section
+{
+  background-color:white;
+  padding: 50px;
+  margin-left:0px;
+  margin-right:0px;
+  width: auto;
+
+min-width: 1000px;
+
+  
+}
+#kk{
+		width:auto;
+}
+#box{
+	
+	
+    text-shadow: 2px 2px 4px #000000;
+}
+h1{
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+#d2{
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+
+body{
+	background-color:#2ECC71;
+}
+header
+{
+  margin-bottom:50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2ECC71;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #309957;
+}
+li a:visited {
+    background-color: #309957;
+}
+li a:active {
+    background-color: #309957;
+}
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.info {background-color: #2196F3;} 
+.info:hover {background: #0b7dda;}
+.ctn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.cinfo {background-color: #2196F3;} 
+#gtn{
+	border: none;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+	background-color: #f4f442;
+	
+}
